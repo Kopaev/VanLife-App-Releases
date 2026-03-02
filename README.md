@@ -4,7 +4,7 @@
 
 # VanLife
 
-**News, events & tools for van life travelers**
+**The mobile app for [coffee.bez.coffee](https://coffee.bez.coffee?utm_source=github&utm_medium=readme&utm_campaign=app-releases) — your campervan & vanlife companion**
 
 [![Latest Release](https://img.shields.io/github/v/release/Kopaev/VanLife-App-Releases?style=flat-square&label=latest&color=4f8298)](https://github.com/Kopaev/VanLife-App-Releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Kopaev/VanLife-App-Releases/total?style=flat-square&color=4f8298)](https://github.com/Kopaev/VanLife-App-Releases/releases)
@@ -12,9 +12,23 @@
 
 [**⬇ Download APK**](https://github.com/Kopaev/VanLife-App-Releases/releases/latest/download/VanLife.apk) &nbsp;·&nbsp;
 [All releases](https://github.com/Kopaev/VanLife-App-Releases/releases) &nbsp;·&nbsp;
-[Website](https://coffee.bez.coffee)
+[Website](https://coffee.bez.coffee?utm_source=github&utm_medium=readme&utm_campaign=app-releases)
 
 </div>
+
+---
+
+## About
+
+**VanLife** is the official Android app for [coffee.bez.coffee](https://coffee.bez.coffee?utm_source=github&utm_medium=readme&utm_campaign=app-releases) — a news and community platform dedicated to campervans, caravans, motorhomes, and the van life movement.
+
+The website and app aggregate content from hundreds of sources worldwide, bringing together everything that matters to people living and traveling in their vehicles:
+
+- 🗞️ **Latest news** from the global campervan & caravan community — regulations, new models, travel stories, and lifestyle
+- 🎪 **Upcoming events** — camping fairs, RV exhibitions, vanlife festivals, and meetups around the world
+- 🧭 **Travel tools** built for nomads — visa calculators, currency converter, and more
+
+The project is available in **7 languages**, covering communities across Europe, Russia, Turkey, and Latin America.
 
 ---
 
@@ -37,10 +51,10 @@
 
 | | |
 |---|---|
-| 📰 **News Feed** | Aggregated van life news with filters by country, category, and language |
-| 📅 **Events** | Upcoming camping fairs, RV shows, and meetups worldwide |
-| 💱 **Currency Converter** | 24 currencies with offline support and drag-to-reorder |
-| 🛂 **Visa Calculators** | Turkey 90/180 rule, Schengen 90/180, Russia 90/year |
+| 📰 **News Feed** | Aggregated van life news from 100+ sources, filtered by country, category, and language |
+| 📅 **Events** | Upcoming camping fairs, RV shows, and vanlife festivals worldwide |
+| 💱 **Currency Converter** | 24 currencies with offline support, quick amounts, and drag-to-reorder |
+| 🛂 **Visa Calculators** | Turkey 90/180 rule, Schengen 90/180, Russia 90/year — with trip history |
 | 🌙 **Dark Mode** | Full dark theme support |
 | 🌍 **7 Languages** | English · Русский · Deutsch · Français · Español · Português · Türkçe |
 
@@ -57,9 +71,9 @@
 
 ---
 
-## Download
+## Direct download link
 
-**Direct link (always points to the latest version):**
+Always points to the latest version — safe to share or embed on a website:
 
 ```
 https://github.com/Kopaev/VanLife-App-Releases/releases/latest/download/VanLife.apk
@@ -68,5 +82,6 @@ https://github.com/Kopaev/VanLife-App-Releases/releases/latest/download/VanLife.
 ---
 
 <div align="center">
-<sub>Source code is in a private repository. Releases are published here automatically via GitHub Actions.</sub>
+<sub>Built with Flutter · Source code is in a private repository · Releases are published here automatically via GitHub Actions</sub><br/><br/>
+<a href="https://coffee.bez.coffee?utm_source=github&utm_medium=readme&utm_campaign=app-releases">coffee.bez.coffee</a>
 </div>
