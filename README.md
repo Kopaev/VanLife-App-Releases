@@ -10,9 +10,18 @@
 [![Downloads](https://img.shields.io/github/downloads/Kopaev/VanLife-App-Releases/total?style=flat-square&color=4f8298)](https://github.com/Kopaev/VanLife-App-Releases/releases)
 [![Platform](https://img.shields.io/badge/platform-Android-green?style=flat-square)](https://github.com/Kopaev/VanLife-App-Releases/releases/latest)
 
-[**⬇ Download APK**](https://github.com/Kopaev/VanLife-App-Releases/releases/latest/download/VanLife.apk) &nbsp;·&nbsp;
-[All releases](https://github.com/Kopaev/VanLife-App-Releases/releases) &nbsp;·&nbsp;
-[Website](https://coffee.bez.coffee?utm_source=github&utm_medium=readme&utm_campaign=app-releases)
+## Download
+
+<a href="https://www.rustore.ru/catalog/app/coffee.bez.coffee">
+  <img src="https://www.rustore.ru/help/icons/logo-color-dark.svg" height="28" alt="RuStore" />
+  &nbsp;<strong>RuStore</strong>
+</a>
+&emsp;
+<a href="https://github.com/Kopaev/VanLife-App-Releases/releases/latest/download/VanLife.apk">
+  ⬇ Direct APK download
+</a>
+
+[All releases](https://github.com/Kopaev/VanLife-App-Releases/releases) &nbsp;·&nbsp; [Website](https://coffee.bez.coffee?utm_source=github&utm_medium=readme&utm_campaign=app-releases)
 
 </div>
 
@@ -97,7 +106,13 @@ The project is available in **7 languages**, covering communities across Europe,
 
 ## Install
 
-1. Download `VanLife-vX.X.X.apk` from the [latest release](https://github.com/Kopaev/VanLife-App-Releases/releases/latest)
+### Option 1 — RuStore (recommended for Russia)
+
+Install directly from [RuStore](https://www.rustore.ru/catalog/app/coffee.bez.coffee) — automatic updates included.
+
+### Option 2 — Direct APK
+
+1. Download `VanLife.apk` from the [latest release](https://github.com/Kopaev/VanLife-App-Releases/releases/latest)
 2. Open the downloaded file on your Android device
 3. If prompted, tap **Install anyway** or allow installation from unknown sources in Settings → Security
 4. Done!
