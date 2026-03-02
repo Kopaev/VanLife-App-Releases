@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://coffee.bez.coffee/icon/bus.svg" width="64" alt="VanLife logo" />
+<img src="https://coffee.bez.coffee/icon/bus.svg" width="64" alt="VanLife News logo" />
 
-# VanLife
+# VanLife News
 
 **The mobile app for [coffee.bez.coffee](https://coffee.bez.coffee?utm_source=github&utm_medium=readme&utm_campaign=app-releases) — your campervan & vanlife companion**
 
@@ -20,7 +20,7 @@
 
 ## About
 
-**VanLife** is the official Android app for [coffee.bez.coffee](https://coffee.bez.coffee?utm_source=github&utm_medium=readme&utm_campaign=app-releases) — a news and community platform dedicated to campervans, caravans, motorhomes, and the van life movement.
+**VanLife News** is the official Android app for [coffee.bez.coffee](https://coffee.bez.coffee?utm_source=github&utm_medium=readme&utm_campaign=app-releases) — a news and community platform dedicated to campervans, caravans, motorhomes, and the van life movement.
 
 The website and app aggregate content from hundreds of sources worldwide, bringing together everything that matters to people living and traveling in their vehicles:
 
