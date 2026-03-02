@@ -12,16 +12,10 @@
 
 ## Download
 
-<a href="https://www.rustore.ru/catalog/app/coffee.bez.coffee">
-  <img src="https://www.rustore.ru/help/icons/logo-color-dark.svg" height="28" alt="RuStore" />
-  &nbsp;<strong>RuStore</strong>
-</a>
-&emsp;
-<a href="https://github.com/Kopaev/VanLife-App-Releases/releases/latest/download/VanLife.apk">
-  ⬇ Direct APK download
-</a>
+[![RuStore](https://img.shields.io/badge/RuStore-%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-1a53f0?style=for-the-badge&logo=android&logoColor=white)](https://www.rustore.ru/catalog/app/coffee.bez.coffee)
+[![Direct APK](https://img.shields.io/badge/Direct_APK-Download-4f8298?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Kopaev/VanLife-App-Releases/releases/latest/download/VanLife.apk)
 
-[All releases](https://github.com/Kopaev/VanLife-App-Releases/releases) &nbsp;·&nbsp; [Website](https://coffee.bez.coffee?utm_source=github&utm_medium=readme&utm_campaign=app-releases)
+[![All releases](https://img.shields.io/badge/All_releases-GitHub-555?style=flat-square&logo=github&logoColor=white)](https://github.com/Kopaev/VanLife-App-Releases/releases) &nbsp;·&nbsp; [![Website](https://img.shields.io/badge/Website-coffee.bez.coffee-555?style=flat-square&logo=googlechrome&logoColor=white)](https://coffee.bez.coffee?utm_source=github&utm_medium=readme&utm_campaign=app-releases)
 
 </div>
 
