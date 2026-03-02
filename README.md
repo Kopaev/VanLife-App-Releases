@@ -51,9 +51,9 @@ The project is available in **7 languages**, covering communities across Europe,
     <td align="center"><img src="screenshots/18_settings_dark_en.jpg" width="195" /><br/><sub>Settings</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/14_events_dark_en.jpg" width="195" /><br/><sub>Events · Dark</sub></td>
     <td align="center"><img src="screenshots/16_currency_dark_en.jpg" width="195" /><br/><sub>Currency · Dark</sub></td>
     <td align="center"><img src="screenshots/17_turkey_visa_dark_en.jpg" width="195" /><br/><sub>Visa Calculator · Dark</sub></td>
+    <td align="center"><img src="screenshots/14_events_dark_en.jpg" width="195" /><br/><sub>Events · Dark</sub></td>
     <td align="center"><img src="screenshots/19_filters_dark_en.jpg" width="195" /><br/><sub>News Filters</sub></td>
   </tr>
 </table>
@@ -65,15 +65,15 @@ The project is available in **7 languages**, covering communities across Europe,
 <table>
   <tr>
     <td align="center"><img src="screenshots/01_news_detail_dark_ru.jpg" width="195" /><br/><sub>🇷🇺 Русский</sub></td>
-    <td align="center"><img src="screenshots/08_feed_light_en.jpg" width="195" /><br/><sub>🇬🇧 English</sub></td>
     <td align="center"><img src="screenshots/20_feed_dark_de.jpg" width="195" /><br/><sub>🇩🇪 Deutsch</sub></td>
     <td align="center"><img src="screenshots/23_feed_dark_es.jpg" width="195" /><br/><sub>🇪🇸 Español</sub></td>
+    <td align="center"><img src="screenshots/27_news_detail_dark_pt.jpg" width="195" /><br/><sub>🇧🇷 Português</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/27_news_detail_dark_pt.jpg" width="195" /><br/><sub>🇧🇷 Português</sub></td>
+    <td align="center"><img src="screenshots/07_currency_light_ru.jpg" width="195" /><br/><sub>🇷🇺 Currency · Русский</sub></td>
+    <td align="center"><img src="screenshots/22_tools_dark_de.jpg" width="195" /><br/><sub>🇩🇪 Tools · Deutsch</sub></td>
+    <td align="center"><img src="screenshots/26_turkey_visa_dark_es.jpg" width="195" /><br/><sub>🇪🇸 Visa · Español</sub></td>
     <td align="center"><img src="screenshots/02_events_dark_ru.jpg" width="195" /><br/><sub>🇷🇺 Events · Русский</sub></td>
-    <td align="center"><img src="screenshots/21_events_dark_de.jpg" width="195" /><br/><sub>🇩🇪 Events · Deutsch</sub></td>
-    <td align="center"><img src="screenshots/24_events_dark_es.jpg" width="195" /><br/><sub>🇪🇸 Events · Español</sub></td>
   </tr>
 </table>
 </div>
