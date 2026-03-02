@@ -34,34 +34,27 @@ The project is available in **7 languages**, covering communities across Europe,
 
 ## Screenshots
 
-### Light theme
+### Features
 
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img src="screenshots/05_feed_light_en.png" width="180" alt="News Feed"/><br/><sub>News Feed</sub></td>
-    <td align="center"><img src="screenshots/06_events_light_en.png" width="180" alt="Events"/><br/><sub>Events</sub></td>
-    <td align="center"><img src="screenshots/07_event_detail_light_en.png" width="180" alt="Event Detail"/><br/><sub>Event Detail</sub></td>
-    <td align="center"><img src="screenshots/08_currency_light_en.png" width="180" alt="Currency Converter"/><br/><sub>Currency Converter</sub></td>
-  </tr>
-</table>
-</div>
-
-### Dark theme
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center"><img src="screenshots/10_news_detail_dark_en.png" width="180" alt="Article Detail"/><br/><sub>Article Detail</sub></td>
-    <td align="center"><img src="screenshots/11_events_dark_en.png" width="180" alt="Events"/><br/><sub>Events</sub></td>
-    <td align="center"><img src="screenshots/12_tools_dark_en.png" width="180" alt="Tools"/><br/><sub>Tools</sub></td>
-    <td align="center"><img src="screenshots/13_currency_dark_en.png" width="180" alt="Currency Converter"/><br/><sub>Currency Converter</sub></td>
+    <td align="center"><img src="screenshots/08_feed_light_en.png" width="195" /><br/><sub>News Feed</sub></td>
+    <td align="center"><img src="screenshots/09_events_light_en.png" width="195" /><br/><sub>Events</sub></td>
+    <td align="center"><img src="screenshots/11_currency_light_en.png" width="195" /><br/><sub>Currency Converter</sub></td>
+    <td align="center"><img src="screenshots/12_turkey_visa_light_en.png" width="195" /><br/><sub>Visa Calculator</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/09_turkey_visa_light_en.png" width="180" alt="Visa Calculator"/><br/><sub>Visa Calculator</sub></td>
-    <td align="center"><img src="screenshots/14_turkey_visa_dark_en.png" width="180" alt="Visa Calculator · Dark"/><br/><sub>Visa Calculator · Dark</sub></td>
-    <td align="center"><img src="screenshots/16_filters_dark_en.png" width="180" alt="News Filters"/><br/><sub>News Filters</sub></td>
-    <td align="center"><img src="screenshots/15_settings_dark_en.png" width="180" alt="Settings"/><br/><sub>Settings</sub></td>
+    <td align="center"><img src="screenshots/13_news_detail_dark_en.png" width="195" /><br/><sub>Article Detail</sub></td>
+    <td align="center"><img src="screenshots/10_event_detail_light_en.png" width="195" /><br/><sub>Event Detail</sub></td>
+    <td align="center"><img src="screenshots/15_tools_dark_en.png" width="195" /><br/><sub>Tools</sub></td>
+    <td align="center"><img src="screenshots/18_settings_dark_en.png" width="195" /><br/><sub>Settings</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/14_events_dark_en.png" width="195" /><br/><sub>Events · Dark</sub></td>
+    <td align="center"><img src="screenshots/16_currency_dark_en.png" width="195" /><br/><sub>Currency · Dark</sub></td>
+    <td align="center"><img src="screenshots/17_turkey_visa_dark_en.png" width="195" /><br/><sub>Visa Calculator · Dark</sub></td>
+    <td align="center"><img src="screenshots/19_filters_dark_en.png" width="195" /><br/><sub>News Filters</sub></td>
   </tr>
 </table>
 </div>
@@ -71,13 +64,21 @@ The project is available in **7 languages**, covering communities across Europe,
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img src="screenshots/05_feed_light_en.png" width="170" alt="English"/><br/><sub>🇬🇧 English</sub></td>
-    <td align="center"><img src="screenshots/17_feed_dark_de.png" width="170" alt="Deutsch"/><br/><sub>🇩🇪 Deutsch</sub></td>
-    <td align="center"><img src="screenshots/20_feed_dark_es.png" width="170" alt="Español"/><br/><sub>🇪🇸 Español</sub></td>
-    <td align="center"><img src="screenshots/24_news_detail_dark_pt.png" width="170" alt="Português"/><br/><sub>🇧🇷 Português</sub></td>
+    <td align="center"><img src="screenshots/01_news_detail_dark_ru.png" width="195" /><br/><sub>🇷🇺 Русский</sub></td>
+    <td align="center"><img src="screenshots/08_feed_light_en.png" width="195" /><br/><sub>🇬🇧 English</sub></td>
+    <td align="center"><img src="screenshots/20_feed_dark_de.png" width="195" /><br/><sub>🇩🇪 Deutsch</sub></td>
+    <td align="center"><img src="screenshots/23_feed_dark_es.png" width="195" /><br/><sub>🇪🇸 Español</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/27_news_detail_dark_pt.png" width="195" /><br/><sub>🇧🇷 Português</sub></td>
+    <td align="center"><img src="screenshots/02_events_dark_ru.png" width="195" /><br/><sub>🇷🇺 Events · Русский</sub></td>
+    <td align="center"><img src="screenshots/21_events_dark_de.png" width="195" /><br/><sub>🇩🇪 Events · Deutsch</sub></td>
+    <td align="center"><img src="screenshots/24_events_dark_es.png" width="195" /><br/><sub>🇪🇸 Events · Español</sub></td>
   </tr>
 </table>
 </div>
+
+> Also available in 🇫🇷 Français and 🇹🇷 Türkçe
 
 ---
 
